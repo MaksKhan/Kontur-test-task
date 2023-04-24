@@ -30,7 +30,7 @@ Example of samples:
 
 ***What have I tried?***
 
-I have tried many models, trained only for russian of multilingual models which trained on different datasets (I have even found some models trained on SberQuAD, special dataset for russian language)
+I have tried many models, trained only for russian or multilingual models which were trained on different datasets (I have even found some models trained on SberQuAD, special dataset for russian language)
 
 ***Which models were the best?***
 
